@@ -13,12 +13,15 @@ This repository will contain most media relating to the MACI interface created d
 ### Connected repositories
 
 Unity App:
+
 https://github.com/OvercodedStack/ANDROID_UNITY_UI-Summer-2019-NIST
 
 CRPI framework for Unity app:
+
 https://github.com/OvercodedStack/CRPI_MIDDLEWARE_INTEGRATION-Summer-of-2019-NIST
 
 Motion capture add-on:
+
 https://github.com/OvercodedStack/MOTION_CAPTURE_UNITY-Summer-of-2019-NIST
 
 
