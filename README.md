@@ -10,6 +10,18 @@ This repository will contain most media relating to the MACI interface created d
 - Abstracts: Created for SURF 2019
 - Powerpoints: Powerpoint presentation of the work done using the MACI
 
+### Connected repositories
+
+Unity App:
+https://github.com/OvercodedStack/ANDROID_UNITY_UI-Summer-2019-NIST
+
+CRPI framework for Unity app:
+https://github.com/OvercodedStack/CRPI_MIDDLEWARE_INTEGRATION-Summer-of-2019-NIST
+
+Motion capture add-on:
+https://github.com/OvercodedStack/MOTION_CAPTURE_UNITY-Summer-of-2019-NIST
+
+
 ### Conclusion
 
 Special thanks to the following people during SURF 2019:
